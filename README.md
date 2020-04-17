@@ -1,2 +1,0 @@
-# ReactComponentTuto
-Created with CodeSandbox
